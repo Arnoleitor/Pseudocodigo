@@ -1,13 +1,14 @@
 Nombre programa: Ejercicio 17
+
+Inicio de programa 
 Entorno: A, B, C, SUMA, PRODUCTO
 Algoritmo:
     escribir: A, B, C
     leer: A, B, C
     calcular: Si A < 0 Entonces
                 calcular PRODUCTO = A * B * C
+                  Mostrar PRODUCTO
               Si A > 0 Entonces
                 calcular SUMA = A + B + C  
-
-Escribir: "El resultado de la operación es..."
-
-FinPrograma
+                  Mostrar SUMA
+Fin de programa

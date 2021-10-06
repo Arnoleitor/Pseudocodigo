@@ -1,5 +1,7 @@
 Nombre programa: año bisiesto
-Entorno: añoA,restoA,division
+
+Inicio de programa
+Entorno: añoA
 Algoritmo:
     escribir: introducir añoA 
     leer: añoA
@@ -8,5 +10,6 @@ Algoritmo:
                         SI añoA NO es 100, ni 200, ni 300, ni 400 entonces
                         es bisiesto 
 Escribir "añoA si es bisiesto"
-fin del programa. 
+
+Fin del programa. 
 
