@@ -1,13 +1,13 @@
-Nombre programa: 3 numeros
+Nombre programa: Ejercicio 17
 Entorno: A, B, C, SUMA, PRODUCTO
 Algoritmo:
     escribir: A, B, C
     leer: A, B, C
-    calcular: Si A es NEGATIVO Entonces
-                calcular producto = A * B * C
-              Si A es POSITIVO Entonces
-            calcular SUMA = A + B + C  
+    calcular: Si A < 0 Entonces
+                calcular PRODUCTO = A * B * C
+              Si A > 0 Entonces
+                calcular SUMA = A + B + C  
 
-Escribir: "Resultado de los numeros de operacion"
+Escribir: "El resultado de la operación es..."
 
 FinPrograma

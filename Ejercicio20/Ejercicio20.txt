@@ -1,4 +1,6 @@
 Programa: Descuento tienda
+
+Incio de programa
  Entorno: 0.85, importeCompra, mes, <resultado
   Algoritmo: escribir importe y mes
        leer : importe y mes 
@@ -8,5 +10,5 @@ Programa: Descuento tienda
             si no  importeCompra * 1
             escirbir resultado
 
-FinPrograma
+Fin de programa
               
