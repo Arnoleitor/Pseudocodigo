@@ -8,3 +8,5 @@ Algoritmo:
               Guardar ValorProducto en Caja 
                     Repetir si fuera necesario
 Escribir: "El dinero en caja registradora es ValorProducto"
+
+Fin programa
