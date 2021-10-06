@@ -1,0 +1,12 @@
+Programa: Descuento tienda
+ Entorno: 0.85, importeCompra, mes, <resultado
+  Algoritmo: escribir importe y mes
+       leer : importe y mes 
+       calcular: si mes es igual a octubre entonces
+                            importeCompra * 0.85
+                            escribir ¨´Resultado¨
+            si no  importeCompra * 1
+            escirbir resultado
+
+FinPrograma
+              

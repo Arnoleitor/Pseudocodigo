@@ -9,3 +9,5 @@ Algoritmo:
             calcular SUMA = A + B + C  
 
 Escribir: "Resultado de los numeros de operacion"
+
+FinPrograma
