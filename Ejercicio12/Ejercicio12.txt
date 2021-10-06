@@ -1,4 +1,6 @@
 Nombre programa: Caja Registradora
+
+Inicio de programa
 Entorno: DineroCaja, ValorProducto, DineroEntrante, DineroSaliente
 Algoritmo:
     escribir: Introducir ValorProducto, DineroEntrante
